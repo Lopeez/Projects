@@ -1,5 +1,3 @@
---  Data is from https://github.com/vrajmohan/pgsql-sample-data/tree/master/employee
-
 CREATE TABLE employees (
     emp_no      INT             NOT NULL,
     birth_date  DATE            NOT NULL,
